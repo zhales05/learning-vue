@@ -7,7 +7,7 @@ cd lesson1
 python3 -m http.server
 ```
 
-## Lesson 1: Data Binding
+## Lesson 1: Data Binding and Vue Development Tools
 
 Vue stores data in an object called `data`. Recall that objects contain a collection of properties, which can contain any data type.
 

@@ -7,9 +7,9 @@ cd lesson1
 python3 -m http.server
 ```
 
-## Lesson 2: Lists
+## Lesson 2: Lists and Event Listeners
 
-We're going to show you how to render lists of items in Vue.
+We're going to show you how to render lists of items in Vue and how to add event listeners.
 
 ### Creating an array of names
 
