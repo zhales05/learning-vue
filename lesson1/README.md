@@ -32,7 +32,7 @@ Your HTML needs a root element. Vue will control the DOM inside this element. Fo
 
 ### Vue instance
 
-Create a Vue instance that controls the root element:
+Create a Vue instance in `script.js` that controls the root element:
 
 ```
 let app = new Vue({
