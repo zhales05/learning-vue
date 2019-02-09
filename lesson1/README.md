@@ -77,3 +77,5 @@ Install Vue Development Tools for [Firefox](https://addons.mozilla.org/en-US/fir
 Once you've done this, reload the application in your browser and open the developer console. You should see a new Vue tab and logo.
 
 Click on the `Vue` tab and then click on `Root` in the window below. You should see your data on the right. It will update as you change it in the browser, and vice versa.
+
+![screenshot showing Vue devtools](https://github.com/BYU-CS-260-Winter-2019/learning-vue/blob/master/lesson1/images/devtools.png)
