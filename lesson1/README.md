@@ -69,3 +69,11 @@ You can also assign new values to properties in the console. Since we created a 
 ```
 app.message = "wow, crazy";
 ```
+
+### Using Vue Development Tools
+
+Install Vue Development Tools for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/) or [Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en).
+
+Once you've done this, reload the application in your browser and open the developer console. You should see a new Vue tab and logo.
+
+Click on the `Vue` tab and then click on `Root` in the window below. You should see your data on the right. It will update as you change it in the browser, and vice versa.
