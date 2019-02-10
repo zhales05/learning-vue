@@ -7,6 +7,10 @@ the [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by
 
 [Lesson 1](https://github.com/BYU-CS-260-Winter-2019/learning-vue/blob/master/lesson1/README.md) discusses data binding and the Vue Development Tools.
 
-## Lesson 2: lists and Event Listeners
+## Lesson 2: Lists and Event Listeners
 
 [Lesson 2](https://github.com/BYU-CS-260-Winter-2019/learning-vue/blob/master/lesson2/README.md) discusses rendering lists and adding event handlers.
+
+## Lesson 3: Attribute and Class Binding
+
+[Lesson 3](https://github.com/BYU-CS-260-Winter-2019/learning-vue/blob/master/lesson3/README.md) discusses binding attributes and classes to Vue properties.
