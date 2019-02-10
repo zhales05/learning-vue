@@ -14,3 +14,7 @@ the [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by
 ## Lesson 3: Attribute and Class Binding
 
 [Lesson 3](https://github.com/BYU-CS-260-Winter-2019/learning-vue/blob/master/lesson3/README.md) discusses binding attributes and classes to Vue properties.
+
+## Lesson 4: Computed Properties
+
+[Lesson 4](https://github.com/BYU-CS-260-Winter-2019/learning-vue/blob/master/lesson4/README.md) discusses computed properties and their benefits.
