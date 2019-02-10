@@ -48,7 +48,7 @@ You can also use the shortcut syntax:
 </div>
 ```
 
-### Binding a className
+### Binding a class name
 
 You can also bind a class of an HTML element to a Vue property. Add this to your HTML:
 
