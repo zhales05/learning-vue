@@ -3,7 +3,7 @@
 You can run this code by:
 
 ```
-cd lesson1
+cd lesson2
 python3 -m http.server
 ```
 
@@ -25,6 +25,8 @@ let app = new Vue({
   }
 });
 ```
+
+The `data` property, is an object, and in this case we've create a property called `names` that contains an array.
 
 ### Rendering the list of names
 
@@ -74,7 +76,7 @@ To let the user add names to the list, create an input field and a button as sho
   </div>
 ```
 
-The input field is bound to the `newName` property using the `v-model` directive. The `v-on` directive tells Vue that it should call an event handler called `addName` when the button is clicked.
+The `v-model` directive binds the input field to the `newName` property on the `data` object. The `v-on` directive tells Vue that it should call an event handler called `addName` when the button is clicked.
 
 In `script.js`, add the new property and method:
 
@@ -100,7 +102,7 @@ let app = new Vue({
 });
 ```
 
-The `newName` property is added to the data object. The `addName` method is listed in a `methods` object. It can use `this.NewName` to reference the property for the new name and `this.names` to reference the property for the names.
+We add the `newName` property to the data object. We add the `addName` method in a `methods` object. It can use `this.newName` to reference the property for the new name and `this.names` to reference the property for the names.
 
 You should now be able to add names to the list.
 

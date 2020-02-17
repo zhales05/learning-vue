@@ -3,7 +3,7 @@
 You can run this code by:
 
 ```
-cd lesson1
+cd lesson4
 python3 -m http.server
 ```
 

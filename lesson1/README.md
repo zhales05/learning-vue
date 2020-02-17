@@ -9,7 +9,7 @@ python3 -m http.server
 
 ## Lesson 1: Data Binding and Vue Development Tools
 
-Vue stores data in an object called `data`. Recall that objects contain a collection of properties, which can contain any data type.
+Vue stores data in an object called `data`. Recall that JavaScript objects contain a collection of properties, each of which can contain any data type.
 
 Data binding in Vue allows you to assign a property to an element in the DOM. This is a _two-way_ binding. Whenever the value of the property changes, the DOM is updated. Whenever the user changes the DOM (e.g., by entering data in an input element), the property changes.
 
