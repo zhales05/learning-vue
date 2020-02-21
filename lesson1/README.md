@@ -18,7 +18,7 @@ Data binding in Vue allows you to assign a property to an element in the DOM. Th
 The first step is to load the Vue JavaScript library in `index.html`. We can do this by visiting the [Vue Installation](https://vuejs.org/v2/guide/installation.html) page, finding the section on CDNs, and copying the following:
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/vue@2.6.2/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 ```
 
 ### HTML root element
